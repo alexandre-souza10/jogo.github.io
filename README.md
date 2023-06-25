@@ -7,9 +7,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+<br></br>
 
-Gift ou Video:
+Video:
 
+https://github.com/alexandre-souza10/jogo.github.io/assets/74196527/63870d3a-0d65-40f1-b3e1-c5fde32c58dc
 
 <br></br>
 ## Liguagens e ferramentas utilizadas
