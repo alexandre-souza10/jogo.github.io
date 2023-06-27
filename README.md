@@ -6,7 +6,13 @@
 ### Link de acesso ao Projeto: https://alexandre-souza10.github.io/jogo.github.io/
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse Projeto foi desenvolvido um Jogo chamado Pedra, Papel, Tesoura , um projeto Front-End utilizando apenas HTML ,e imagens para o seu desenvolvimento.
+O projeto tem uma estilização basica, mas muito funcional , funcionando corretamente o processo do jogo . E um jogo Single Player , onde se tem um Player , e um Adversario  que no caso seria a maquina;
+Ao clicarmos nas imagens , com as respectivas posições de mãos para o jogo, tudo flui corretamente , e o sistema automaticamente faz uma jogada tambem, e imediatamente , aponta o vencedor no jogo.
+
+- O jogo tem a funcionalidade de recriar um jogo famoso e funcional, na forma virtual.
+
+- Abaixo temos um pequeno video instrucional, onde mostramos a funcionalidade do projeto, e como deve ser jogado o jogo.
 <br></br>
 
 Video:
