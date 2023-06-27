@@ -12,7 +12,7 @@ Ao clicarmos nas imagens , com as respectivas posições de mãos para o jogo, t
 
 - O jogo tem a funcionalidade de recriar um jogo famoso e funcional, na forma virtual.
 
-- Abaixo temos um pequeno video instrucional, onde mostramos a funcionalidade do projeto, e como deve ser jogado o jogo.
+- A seguir temos um pequeno video instrucional, onde mostramos a funcionalidade do projeto, e como deve ser jogado o jogo.
 <br></br>
 
 Video:
