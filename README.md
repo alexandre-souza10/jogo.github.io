@@ -14,6 +14,7 @@ When we click on the images, with the respective hand positions for the game, ev
 - The Game Project, has the functionality to recreate a famous and functional game, in virtual form.
 
 - Next we have a small instructional video, where we show the functionality of the project, and how the game should be played.
+
 <br></br>
 
 Video:
@@ -22,9 +23,10 @@ https://github.com/alexandre-souza10/jogo.github.io/assets/74196527/63870d3a-0d6
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - Visual Studio Code
+
 <br></br>
 
 #### Author: 
