@@ -6,7 +6,7 @@
 ### Project access link: https://alexandre-souza10.github.io/jogo.github.io/
 <br></br>
 
-## Project description:
+## Project Description:
 - In this Project, a game called Pedra, Papel, Scissors was developed, a Front-End project using only HTML and images for its development.
 The project has a basic stylization, but very functional, functioning correctly the game process. It is a Single Player game, where you have a Player, and an Adversary, which in this case would be the machine;
 When we click on the images, with the respective hand positions for the game, everything flows correctly, and the system automatically makes a move too, and immediately points out the winner in the game.
