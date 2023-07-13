@@ -12,7 +12,7 @@ The project has a basic stylization, but very functional, functioning correctly 
 When we click on the images, with the respective hand positions for the game, everything flows correctly, and the system automatically makes a move too, and immediately points out the winner in the game.
 
 - The Game Project, has the functionality to recreate a famous and functional game, in virtual form.
-
+  
 - Next we have a small instructional video, where we show the functionality of the project, and how the game should be played.
 
 <br></br>
