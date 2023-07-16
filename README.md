@@ -29,5 +29,5 @@ https://github.com/alexandre-souza10/jogo.github.io/assets/74196527/63870d3a-0d6
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
